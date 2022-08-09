@@ -1,6 +1,12 @@
-# preparing repo and install git
+# OBS: using this code in a different instance of a google cloud shell standard instance
+# preparing repo and install tools
 sudo apt-get update
 sudo apt-get install git
+sudo apt install node
+sudo apt install npm
+
+
+
 
 #clone and access app
 git clone https://github.com/LeonardoSousa89/app-gccp-app-engine-deploy.git
