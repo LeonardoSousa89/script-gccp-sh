@@ -8,7 +8,7 @@ sudo apt install npm
 
 
 
-#clone and access app
+#cloning, access and view app resources
 git clone https://github.com/LeonardoSousa89/app-gccp-app-engine-deploy.git
 cd app-gccp-app-engine-deploy
 ls
