@@ -5,6 +5,7 @@ sudo apt-get install git
 #clone and access app
 git clone https://github.com/LeonardoSousa89/app-gccp-app-engine-deploy.git
 cd app-gccp-app-engine-deploy
+ls
 
 # install packages
 npm i
