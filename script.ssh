@@ -1,6 +1,6 @@
 sudo apt-get update
 sudo apt-get install git
-git clone [url]
+git clone https://github.com/LeonardoSousa89/app-gccp-app-engine-deploy.git
 cd app
 npm i
 gcloud init
